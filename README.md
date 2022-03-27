@@ -1,0 +1,1 @@
+# nftschoo.dev
