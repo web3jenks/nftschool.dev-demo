@@ -2,7 +2,7 @@
 
 ## About
 
-This is the companion sample code of the [NFT.stroage & Polygon tutorial](https://nftschool.dev/tutorial/mint-nftstorage-polygon/#minting-your-nft) at NFTschool.dev.
+This is the companion sample code of the [Mint with NFT.storage and Polygon](https://nftschool.dev/tutorial/mint-nftstorage-polygon/#minting-your-nft) tutorial at NFTschool.dev.
 
 Follow the detailed step by step guide [here](https://nftschool.dev/tutorial/mint-nftstorage-polygon/#minting-your-nft).
 
@@ -20,7 +20,7 @@ $ npm install
 
 ### Step 2
 
-Update your .env environmnet variables. Replace `your_wallet_private_key` with your test account's private key ([here](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key) is how). Replace `your_nftstroage_api_key` with your nft.storage account api key you created ([here](https://nft.storage/manage/) is a link to it).
+Update your `.env` environmnet variables. Replace `your_wallet_private_key` with your test account's private key ([here](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key) is how). Replace `your_nftstroage_api_key` with your nft.storage account api key you created ([here](https://nft.storage/manage/) is a link to it).
 
 ```shell
 PRIVATE_KEY=your_wallet_private_key
